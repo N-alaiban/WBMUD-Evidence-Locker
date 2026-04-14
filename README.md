@@ -1,6 +1,6 @@
 # WBMUD Enterprise Network & Security Lab
 
-## My information
+## My Information
 - Name: Nada Alaiban
 - Course: IT 520
 - Lab 4.1 – WBMUD Enterprise Network & Security Lab
